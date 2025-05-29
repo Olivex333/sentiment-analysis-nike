@@ -4,7 +4,7 @@
 Projekt prezentuje kompletny pipeline analizy sentymentu wypowiedzi na temat marki Nike w serwisie Twitter (X).
 Jest to praktyczne narzędzie dla działów marketingu i PR, umożliwiające szybkie zbadanie, jak marka jest postrzegana w mediach społecznościowych.
 
-#Funkcjonalności
+# Funkcjonalności
   - Automatyczne pobieranie tweetów z Twitter API v2 na wybrany temat/hashtag (#Nike).
 
   - Czyszczenie tekstu – usuwanie linków, wzmiankowań, hashtagów i znaków specjalnych.
